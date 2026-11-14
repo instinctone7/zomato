@@ -1,0 +1,9 @@
+-r requirements.txt
+# Optional CLI/API, source-data preparation, and tests.
+datasets==5.2.0
+ftfy==6.3.1
+rich==15.0.0
+pytest==9.2.0
+fastapi==0.163.0
+uvicorn==0.54.0
+httpx==0.28.1

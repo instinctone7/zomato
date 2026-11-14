@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "source_dataset": "ManikaSaini/zomato-restaurant-recommendation",
+  "source_revision": "5738e9eda2fad49ad51c6e0ed26e761d9b947133",
+  "source_url": "https://huggingface.co/datasets/ManikaSaini/zomato-restaurant-recommendation",
+  "prepared_at_utc": "2026-11-14T20:34:46.875496+00:00",
+  "row_count": 7824,
+  "columns": [
+    "name",
+    "city",
+    "location",
+    "cuisines",
+    "rating",
+    "votes",
+    "cost_for_two",
+    "budget_tier",
+    "restaurant_type",
+    "has_online_delivery",
+    "has_table_booking"
+  ],
+  "sha256": "9a7e1e6afac6e8a04e7d0ae9f1f8d380a8fec42055c624f3b2bbd84166f930da",
+  "license": "unspecified in source dataset card; verify rights before redistribution"
+}

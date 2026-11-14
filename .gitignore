@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+.venv-streamlit/
+.uv-cache/
+*.log
+
+.DS_Store
+.vscode/
